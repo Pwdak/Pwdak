@@ -3,14 +3,12 @@
 ## 🚀 About Me
 
 ```javascript
-const arnold = {
   name: "Arnold KOUEVI",
   role: "Linux System Admin and Devops",
   specialization: ["Linux", "DevOps", "Cloud Architecture"],
   current_position: "Linux System Administrator / DevOps @ ANID – TOGO",
   location: "Lomé, TOGO",
   seeking: "International opportunities"
-};
 ```
 
 Passionate and certified **Linux System Administrator** with over **6 years of experience** in DevOps engineering. I specialize in designing, optimizing, and securing cloud infrastructures (AWS). I thrive on transforming complex technical challenges into elegant, scalable solutions, handling the entire lifecycle of Linux environments from deployment to maintenance.
