@@ -1,42 +1,43 @@
-# 👋 Salut, je suis Arnold KOUEVI
+# 👋 Hello, I'm Arnold KOUEVI
 
-## 🚀 À propos de moi
+## 🚀 About Me
 
-- **Nom:** Arnold KOUEVI
-- **Rôle:** Administrateur Systèmes Linux / DevOps
-- **Localisation:** Lomé, TOGO
+- **Name:** Arnold KOUEVI
+- **Role:** Linux System Administrator / DevOps
+- **Location:** Lomé, TOGO
 - **Contact:** [koueviarnold@gmail.com](mailto:koueviarnold@gmail.com) | +228 92196655
 - **LinkedIn:** [Arnold Kouevi](https://www.linkedin.com/in/arnold-kouevi)
 - **Portfolio:** [Portfolio Link](https://portfolio-arnold-kouevi.vercel.app/)
 
-**Administrateur Systèmes Linux passionné et certifié**, avec plus de **6 ans d’expérience** dans l’ingénierie DevOps. Je suis spécialisé dans la gestion d’infrastructures on-premise et cloud (AWS), la virtualisation (VMware), la conteneurisation (Docker, Kubernetes) et l'automatisation. J’interviens sur tout le cycle de vie des environnements Linux avec une approche DevOps et sécuritaire.
+**Passionate and certified Linux System Administrator** with over **6 years of experience** in DevOps engineering. I specialize in managing on-premise and cloud (AWS) infrastructures, virtualization (VMware), containerization (Docker, Kubernetes), automation (Ansible, Jenkins), and monitoring. I handle the entire lifecycle of Linux environments, from deployment to maintenance, with a strong focus on DevOps practices and security.
 
 ---
 
-## 💼 Expériences Professionnelles
+## 💼 Professional Experience
 
-### 🏢 Administrateur Systèmes Linux / DevOps @ ANID – TOGO
-**Sept. 2023 – Présent**
-- ☁️ **Virtualisation & Cloud:** Gestion de l’environnement VMware (vCenter, ESXi, migration) et clusters Kubernetes & OpenShift.
-- ⚙️ **DevOps & Automatisation:** Automatisation avec **Ansible** et **Bash**. CI/CD avec **Jenkins**, Git et Terraform.
-- � **Monitoring:** Supervision via **Nagios**, **Prometheus** et **Grafana**.
-- �️ **Sécurité & Accès:** Gestion des accès utilisateurs et intégration avec **Keycloak**.
-- � **Backup:** Sauvegarde avec **Veeam Backup**.
-- 🐳 **Conteneurisation:** Déploiement d’applications avec **Docker** et gestion de microservices.
+### 🏢 Linux System Administrator / DevOps @ ANID – TOGO
+**Sept. 2023 – Present**
+- ☁️ **Virtualisation & Cloud:** Managed VMware environment (vCenter, ESXi, migration) and Kubernetes & OpenShift clusters.
+- ⚙️ **DevOps & Automation:** Automated tasks with **Ansible** and **Bash**. Managed CI/CD pipelines with **Jenkins**, Git, and Terraform.
+- 📊 **Monitoring:** Supervised systems using **Nagios**, **Prometheus**, and **Grafana**.
+- 🛡️ **Security & Access:** Managed user access and integration with **Keycloak**.
+- 💾 **Backup:** Handled backups using **Veeam Backup**.
+- 🐳 **Containerization:** Deployed containerized applications with **Docker** and managed microservices.
+- 🤝 **Collaboration:** Participated in Agile (Scrum) processes and collaborated with developers for application updates.
 
-### 💻 Administrateur Systèmes Linux @ ActioNet – Virginia, USA
-**Août 2019 – Août 2023**
-- � **Administration Système:** Gestion de serveurs Linux (RedHat, CentOS, Ubuntu) sous VMware et **AWS**.
-- ⚡ **Automatisation:** Réduction de 20% du temps de gestion grâce à **Ansible**.
-- 🔍 **Supervision:** Mise en place de **Zabbix**, Nagios et **ELK Stack** (Elasticsearch, Logstash, Kibana).
-- 🌐 **Web & BDD:** Configuration serveurs LAMP, Nginx, Apache, Varnish. Gestion bases de données via PhpMyAdmin.
-- 🛠️ **Support:** Support incidents Niveaux 2 et 3, maintien en condition opérationnelle.
+### 💻 Linux System Administrator @ ActioNet – Virginia, USA
+**Aug 2019 – Aug 2023**
+- 🐧 **System Administration:** Administered Linux servers (RedHat, CentOS, Ubuntu) on VMware and **AWS**.
+- ⚡ **Automation:** Reduced management time by 20% through **Ansible** automation.
+- 🔍 **Monitoring:** Implemented **Zabbix**, Nagios, and **ELK Stack** (Elasticsearch, Logstash, Kibana).
+- 🌐 **Web & Databases:** Configured LAMP servers, Nginx, Apache, Varnish. Managed databases via PhpMyAdmin.
+- 🛠️ **Support:** Provided Level 2 and 3 incident support and maintained operational conditions.
 
 ---
 
-## 🛠️ Arsenal Technique
+## 🛠️ Technical Arsenal
 
-### ☁️ Cloud & Virtualisation
+### ☁️ Cloud & Virtualization
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
@@ -54,7 +55,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
-### 📊 Monitoring & Sauvegarde
+### 📊 Monitoring & Backup
 <p align="left">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
@@ -63,7 +64,7 @@
   <img src="https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white" alt="Veeam" />
 </p>
 
-### �️ Systèmes & Bases de Données
+### 🗄️ Systems & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" alt="RedHat" />
@@ -77,28 +78,29 @@
 
 ## 🎓 Certifications
 
+- ☁️ **AWS Certified Solutions Architect – Associate** (AWS)
 - 🏆 **CompTIA Linux+ Certification**
-- 📜 **Administration système Linux** (OpenClassrooms)
-- � **Gestion de serveurs et services Linux** (OpenClassrooms)
-- 📜 **Ansible pour l’automatisation** (OpenClassrooms)
-- 📜 **Cloud avec AWS** (OpenClassrooms)
+- 📜 **Linux System Administration** (OpenClassrooms)
+- 📜 **Linux Server & Service Management** (OpenClassrooms)
+- 📜 **Ansible for Automation** (OpenClassrooms)
+- 📜 **Cloud with AWS** (OpenClassrooms)
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pwdak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=fr" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pwdak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=fr" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pwdak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pwdak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pwdak&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=fr" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pwdak&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🤝 Connectons-nous !
+## 🤝 Let's Connect!
 
 <p align="left">
   <a href="https://linkedin.com/in/arnold-kouevi">
