@@ -1,5 +1,21 @@
 👋 Hello, I'm Arnold KOUEVI.
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Linux+System+Administrator;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
+
+**🌍 Based in Lomé, Togo | 🎯 Open to remote opportunity**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://arnold-kouevi-portofolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pwdak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnold-kouevi)
+
+📧 **koueviarnold@gmail.com** | 📱 **+228 92 19 66 55**
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 ```javascript
@@ -11,7 +27,7 @@
   seeking: "International opportunities"
 ```
 
-Passionate and certified **Linux System Administrator** with over **6 years of experience** in DevOps engineering. I specialize in designing, optimizing, and securing cloud infrastructures (AWS). I thrive on transforming complex technical challenges into elegant, scalable solutions, handling the entire lifecycle of Linux environments from deployment to maintenance.
+Passionate and certified **AWS Cloud & Linux System Administrator** with over **7 years of experience** in DevOps engineering. I specialize in designing, optimizing, and monitoring cloud infrastructures (AWS). I thrive on transforming complex technical challenges into elegant, scalable solutions, handling the entire lifecycle of Linux environments from deployment to maintenance.
 
 🎯 **What I do:**
 
@@ -101,7 +117,7 @@ Passionate and certified **Linux System Administrator** with over **6 years of e
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **🏠 Multi-Cloud Kubernetes Deployment** | Deployment of an application on Kubernetes across multiple clouds (AWS, GCP, Azure). | `Kubernetes` `Docker` `Terraform` `Helm` `ArgoCD` | [View →](https://github.com/Pwdak/k8s-multi-cloud-deployment) |
+| **🏠 Multi-Cloud Kubernetes Deployment** | Deployment of an application on Kubernetes across on-premise and clouds (AWS, GCP, Azure). | `Kubernetes` `Docker` `Terraform` `Helm` `ArgoCD` | [View →](https://github.com/Pwdak/k8s-multi-cloud-deployment) |
 | **🎯 Portfolio Website** | Personal portfolio showcasing projects and skills, built with Next.js and Tailwind CSS. | `Next.js` `TypeScript` `Tailwind` `Framer Motion` | [Live Demo →](https://portfolio-arnold-kouevi.vercel.app/) |
 
 ---
