@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1000&color=004182&center=true&vCenter=true&width=500&lines=Linux+System+Administrator;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Linux+System+Administrator;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
 
 **🌍 Based in Lomé, Togo | 🎯 Open to remote opportunity**
 
